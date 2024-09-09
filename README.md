@@ -1,5 +1,3 @@
-# stock_ma_tracker
-
 # Stock Price Simulation with Moving Averages
 
 ## Overview
