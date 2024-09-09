@@ -35,26 +35,3 @@ This project simulates stock prices using random data and calculates both the 5-
 ### Display:
 - The plot is displayed using `plt.show()` and the last few rows of the data are printed to the console using `data.tail()` to check the latest moving averages.
 
-## How to Run the Code
-
-1. Install the required libraries:
-    ```bash
-    pip install pandas numpy matplotlib
-    ```
-
-2. Copy the code into a Python script (e.g., `moving_average_stock.py`).
-
-3. Run the script:
-    ```bash
-    python moving_average_stock.py
-    ```
-
-4. The stock price chart will be displayed, showing the 5-day and 10-day moving averages.
-
-## Example Output
-- A chart displaying:
-  - The stock prices over a span of 200 days.
-  - The 5-day and 10-day moving averages to show trends in price movements.
-
-## License
-This project is provided for educational purposes. Feel free to modify and use it in your own projects.
